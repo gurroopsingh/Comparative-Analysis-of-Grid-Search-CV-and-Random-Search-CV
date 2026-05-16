@@ -37,12 +37,4 @@ A clean and minimal Streamlit web application comparing `GridSearchCV` and `Rand
    streamlit run streamlit_app.py
    ```
 
-## How to Deploy on Streamlit Cloud
-
-1. Commit and push all your project files (`streamlit_app.py`, `requirements.txt`, `heart.csv`, and `README.md`) to a new **GitHub repository**.
-2. Go to [Streamlit Community Cloud](https://share.streamlit.io/) and log in with your GitHub account.
-3. Click on **New app**.
-4. Select your newly created repository and branch.
-5. Set the Main file path to `streamlit_app.py`.
-6. Click **Deploy!**
-7. Within a minute or two, your app will be live and accessible via a public URL.
+#
